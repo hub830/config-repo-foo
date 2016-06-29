@@ -5,3 +5,6 @@ spring config 配置库
 
 https://github.com/hub830/spring-config-server-gradle[服务端示例]
 https://github.com/hub830/spring-config-sample-gradle[客户端示例]
+
+There is a sample application
+https://github.com/spring-cloud/spring-cloud-config/tree/master/spring-cloud-config-sample[here]. 
